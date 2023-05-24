@@ -1,0 +1,20 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.card{
+    padding: 10px;
+    border-radius: 0%;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+    cursor: pointer;
+}
+
+.card-text{
+    text-align: justify;
+}
+.card2{
+    background-color: yellowgreen;
+    color: aliceblue;
+}
